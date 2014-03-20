@@ -1,0 +1,1 @@
+很多人都会使用QuickTime Player看mp4或mov视频文件，但其功能远不止于此。option+command+n，可以打开录像功能，ctrl+option+command+n可以打开录音功能，ctrl+command+n可以打开录制屏幕功能，最后一个功能非常适合做产品介绍或产品演示，大家可以试一试。遇到快捷键冲突的，在QuickTime的文件菜单也可以找到这三项。
